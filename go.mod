@@ -1,4 +1,4 @@
-module github.com/Icarus-afk/LOLCAT-GO
+module github.com/Icarus-afk/LOLCOW-GO
 
 go 1.18
 
